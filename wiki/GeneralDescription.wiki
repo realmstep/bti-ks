@@ -1,4 +1,4 @@
 #summary Общее описание системы
 
 = Содержание =
-[Roles]
+<wiki:toc max_depth="1" />
